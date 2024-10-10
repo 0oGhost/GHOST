@@ -3,6 +3,10 @@
 💀 𝐋𝐄𝐓'𝐒 𝐃𝐎 𝐓𝐇𝐈𝐒 💀
 </div>
 
+<div align="center"> 
+[MyPhoto](./Images/MyPhoto.JPEG)
+</div>
+
 ---
 
 ### ماهي البرمجة ؟
