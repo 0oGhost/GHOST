@@ -4,9 +4,11 @@
 </div>
 
 ---
+
 <div align="center"> 
-![hi](./Images/MyPhoto.png)
+  ![hi](./Images/MyPhoto.png)
 </div>
+
 ---
 
 ### ماهي البرمجة ؟
