@@ -6,7 +6,7 @@
 ---
 
 <div align="center"> 
-    <img src="./Images/MyPhoto.png"> 
+    <img src="./Images/3.png"> 
 </div>
 
 ---
