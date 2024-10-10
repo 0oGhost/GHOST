@@ -46,9 +46,12 @@ Output is:
 ```
 [Hexadicmal]
 
-Output:
+Output is:
 47 48 4F 53 54
 ```
+###### فاهمة قد أيه الموضوع كان معقد و صعب؟
   
-2. 
+2. Low Level Language 
+>
+هنا بقا نقطة التحول 
 
