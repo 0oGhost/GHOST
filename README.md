@@ -7,7 +7,7 @@
 
 
 <div align="center"> 
-    ![MyPhoto](./Images/MyPhoto.JPEG)
+    ![MyPhoto](./Images/MyPhoto.jpeg)
 </div>
 
 
