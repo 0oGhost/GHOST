@@ -4,8 +4,12 @@
 </div>
 
 
+# عنوان المشروع
+
 <div align="center"> 
-    <img src="./Images/MyPhoto.JPEG" alt="MyPhoto">
+    ![MyPhoto](./Images/MyPhoto.JPEG)
+</div>
+
 </div>
 
 ---
