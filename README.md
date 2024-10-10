@@ -79,3 +79,11 @@ _start:
     int 0x80
 ```
 
+
+<div align="center">
+<\strong>حالة اللي بيقر<strong> 
+</div>
+
+![للضحك](./Images/2.JPEG "ميمز😂")
+
+
