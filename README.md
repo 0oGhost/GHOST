@@ -7,7 +7,7 @@
 
 
 <div align="center"> 
-    ![hi](./Images/MyPhoto.jpeg)
+    ![hi](./Images/MyPhoto.jpeg.JPEG)
 </div>
 
 
