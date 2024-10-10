@@ -32,7 +32,9 @@
  - Binary Code 
  - Hexadicmal 
 ``` 
-// Binary Code: 
+[Binary Code]
+Text : GHOST
+Output is:
 01000111 01001000 01001111 01010011 01010100
 ```
 >
