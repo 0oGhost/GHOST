@@ -6,9 +6,8 @@
 
 # عنوان المشروع
 
-<div align="center"> 
-    ![MyPhoto](./Images/MyPhoto.JPEG)
-</div>
+![MyPhoto](./Images/MyPhoto.JPEG)
+
 
 </div>
 
