@@ -5,13 +5,7 @@
 
 ---
 
-
-<div align="center"> 
-    ![hi](./Images/MyPhoto.png)
-</div>
-
-
-
+![hi](./Images/MyPhoto.png)
 
 ---
 
