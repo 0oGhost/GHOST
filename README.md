@@ -4,9 +4,9 @@
 </div>
 
 ---
-
+<div align="center"> 
 ![hi](./Images/MyPhoto.png)
-
+</div>
 ---
 
 ### ماهي البرمجة ؟
