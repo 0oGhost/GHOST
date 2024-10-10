@@ -1,4 +1,9 @@
 
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=GHOST&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
 <div align="center"> 
 💀 𝐋𝐄𝐓'𝐒 𝐃𝐎 𝐓𝐇𝐈𝐒 💀
 </div>
