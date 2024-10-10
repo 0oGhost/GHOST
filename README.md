@@ -5,7 +5,9 @@
 
 ---
 
-  ![hi](./Images/MyPhoto.png)
+<div align="center"> 
+    <img src="./Images/MyPhoto.png"> 
+</div>
 
 ---
 
