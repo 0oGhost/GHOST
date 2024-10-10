@@ -5,7 +5,7 @@
 
 
 
-![MyPhoto](./Images/MyPhoto.JPEG)
+![MyPhoto](./Images/1.JPEG)
 
 
 
