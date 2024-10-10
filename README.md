@@ -5,7 +5,10 @@
 
 
 
-![MyPhoto](./Images/1.JPEG)
+
+<div align="center"> 
+    ![MyPhoto](./Images/MyPhoto.JPEG)
+</div>
 
 
 
