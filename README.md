@@ -80,9 +80,9 @@ _start:
 ```
 
 
-<div align="center">
-<strong>حالة اللي بيقر</strong>
-</div>
+> <div align="center">
+> <strong>حالة اللي بيقر #######</strong>
+> </div>
 
 ![للضحك](./Images/2.JPEG "ميمز😂")
 
